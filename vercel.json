@@ -1,9 +1,7 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "headers": []
-
-
+  "headers": [],
 	"redirects":[
 		{"source":"https://hexo.weiprivate.top/askbox",
 		"destination":"https://hexo.weiprivate.top/d9c9ff5d-2554-4ddb-893c-c1cd1f8b0674",
