@@ -2,4 +2,12 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": []
+
+
+	"redirects":[
+		{"source":"/askbox",
+		"destination":"/d9c9ff5d-2554-4ddb-893c-c1cd1f8b0674",
+		"statusCode":301}
+	]
+
 }
